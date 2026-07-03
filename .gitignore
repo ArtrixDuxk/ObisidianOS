@@ -1,0 +1,12 @@
+*.o
+*.a
+*.so
+*.iso
+*.img
+*.tar
+*.tar.*
+*.log
+
+build/
+sources/
+out/
